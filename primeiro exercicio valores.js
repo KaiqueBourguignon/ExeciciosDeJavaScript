@@ -11,7 +11,7 @@ console.log(`seu peso e : ${peso}` );
 const altura = prompt ("digite sua alta");
 console.log(`sua altura é :  ${altura}` );
 
-const diabetico = prompt ("Digite seu seu peso");
+const diabetico = prompt ("voce e diabetico");
 console.log(`informação registrada `)
 
 
